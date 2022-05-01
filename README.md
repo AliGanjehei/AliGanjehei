@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Flutter applications development
 - 📫 How to reach me:
-    Email: ali.ganjehei1377@gmail.com
     LinkedIn: www.linkedin.com/in/ali-ganjei
     
 
